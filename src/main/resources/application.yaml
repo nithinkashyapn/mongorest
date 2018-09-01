@@ -1,0 +1,7 @@
+spring:
+  data:
+    mongodb:
+      database: morphia
+#      authentication-database: some-database
+#      username: some-user
+#      password: secret
